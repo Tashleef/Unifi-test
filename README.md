@@ -1,4 +1,4 @@
-first run npm install
-then copy from .env.example and paste it in .env
-change your db name and password
-run command npm run start
+1. first run npm install
+2. copy from .env.example and paste it in .env
+3. change the variables to your db name and password
+4. run command npm run start
